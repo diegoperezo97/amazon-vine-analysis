@@ -14,17 +14,17 @@ Nowadays "Big Data" is a popular term but how would you characterize it if I ask
 
 ## Results of the Analysis
 
-Image 1. Results for the Vine Program
+**Image 1. Results for the Vine Program**
 
 ![Captura de Pantalla 2022-05-21 a la(s) 19 16 44](https://user-images.githubusercontent.com/65054637/169673385-f1506672-ea26-4ce9-94ee-624d2dec618f.png)
 
-Image 2. Results non-related to the Vine Porgram
+**Image 2. Results non-related to the Vine Porgram**
 
 ![Captura de Pantalla 2022-05-21 a la(s) 19 16 51](https://user-images.githubusercontent.com/65054637/169673384-3eaf719e-5717-4b3c-8bab-139f3656d7b0.png)
 
 Given the results presented in Image 1. Results for the Vine Program and Image 2. Results non-related to the Vine Porgram, the following results can be concluded:
 
-Table 1. Consolidated results of Vine Program
+**Table 1. Consolidated results of Vine Program**
 
 | METRIC | VINE PROGRAM | NOT VINE PROGRAM
 | ----------- | ----------- | -----------
