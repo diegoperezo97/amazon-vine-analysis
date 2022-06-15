@@ -1,6 +1,8 @@
 # MODULE 16: Big Data
 
-Nowadays "Big Data" is a popular term but how would you characterize it if I asked you? We'll look at what big data implies in the industry in this subject. We'll look at Hadoop, the four Vs, MapReduce, and Spark as part of the big data ecosystem. Natural language processing will also be discussed. This is when we translate what we say into a language that computers can understand. Because there is so much spoken and written language that has to be translated, natural language processing is a vital big data idea and skill set. Spam filters, spell check, and voice recognition systems all involve natural language processing. Let's dive into the exciting realm of big data.
+Nowadays "Big Data" is a popular term but how would you characterize it if I asked you? We'll look at what big data implies in the industry in this subject. We'll look at Hadoop, the four Vs, MapReduce, and Spark as part of the big data ecosystem. Natural language processing will also be discussed. This is when we translate what we say into a language that computers can understand. Because there is so much spoken and written language that has to be translated, natural language processing is a vital big data idea and skill set. Spam filters, spell check, and voice recognition systems all involve natural language processing. 
+
+Let's dive into the exciting realm of big data.
 
 ## Overview of the Analysis
 
